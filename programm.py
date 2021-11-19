@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     print('qwertyu')
     print('фыва')
+    print('zxcvbvcxzxcv')
 
 
 if __name__ == '__main__':
